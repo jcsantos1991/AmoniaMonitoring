@@ -1,0 +1,6 @@
+{
+    "sketch": "AmoniaMonitoring.ino",
+    "output": "build",
+    "board": "arduino:samd:mkr1000",
+    "port": "COM6"
+}

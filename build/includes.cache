@@ -1,0 +1,332 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\MinosPortatil2\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\MinosPortatil2\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\variants\\mkr1000"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\SPI"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "WiFi101.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "SD.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\SD\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "RTCZero.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\RTCZero\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\Wire"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "SHTSensor.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\arduino-sht"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "AD524X.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\AD524X"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "Timezone.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\Timezone\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "TimeLib.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\Time"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "Adafruit_MQTT.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\arduino_643538"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "SAMD21turboPWM.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\SAMD21_turbo_PWM\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "AutoPID.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\AutoPID"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "INA219.h",
+    "Includepath": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\ArduinoINA219"
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoniaMonitoring.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmmoniaSensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\AmoiniaMonitoringWifi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\FanControl.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\HeaterControl.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\StoreMeasurements.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\MinosPortatil2\\OneDrive - URV\\Amonnia Monitoring\\AmoniaMonitoring\\build\\sketch\\TempHumiSensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\SPI\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\WiFiMDNSResponder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\WiFiSSLClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\bsp\\source\\nm_bsp_arduino.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\bsp\\source\\nm_bsp_arduino_avr.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\bus_wrapper\\source\\nm_bus_wrapper_samd21.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\common\\source\\nm_common.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_ate_mode.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_crypto.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_hif.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_ota.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_periph.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_ssl.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\m2m_wifi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\nmasic.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\nmbus.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\nmdrv.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\nmi2c.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\nmspi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\driver\\source\\nmuart.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\socket\\source\\socket.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\spi_flash\\source\\spi_flash.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\WiFi101\\src\\utility\\WiFiSocket.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\SD\\src\\File.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\SD\\src\\SD.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\SD\\src\\utility\\Sd2Card.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\SD\\src\\utility\\SdFile.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\SD\\src\\utility\\SdVolume.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\RTCZero\\src\\RTCZero.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.8.13\\libraries\\Wire\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\arduino-sht\\SHTSensor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\AD524X\\AD524X.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\Timezone\\src\\Timezone.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\Time\\DateStrings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\Time\\Time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\arduino_643538\\Adafruit_MQTT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\arduino_643538\\Adafruit_MQTT_Client.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\SAMD21_turbo_PWM\\src\\SAMD21turboPWM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\AutoPID\\AutoPID.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\MinosPortatil2\\OneDrive - URV\\Documentos\\Arduino\\libraries\\ArduinoINA219\\INA219.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
