@@ -375,12 +375,9 @@ bool AmoiniaMonitoringWifi::uploadMesasurentWifi(String filename, String data)
                         // the server's disconnected, stop the client:
                         delay(1000);
                         client.stop();
-                        // Serial.println("Server Connection Closed!!");
                         pos = fileCVS.position();
                         setPosFileLost(pos);
                         countData++;
-                        //  Serial.println("Lost data");
-                        //  Serial.println(dataLost);
                     }
                     else
                     {
