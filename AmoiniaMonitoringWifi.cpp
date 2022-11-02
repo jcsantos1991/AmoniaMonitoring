@@ -65,7 +65,6 @@ bool AmoiniaMonitoringWifi::connectAmoiniaMonitoringWifi(String ssidSetup, Strin
     {
         Serial.print("Attempting to connect to SSID:");
         Serial.println(ssid);
-        Serial.println(pass);
         // Connect to WPA/WPA2 network. Change this line if using open or WEP network:
         statusWIFI = WiFi.begin(ssid, pass);
         // wait 10 seconds for connection:
