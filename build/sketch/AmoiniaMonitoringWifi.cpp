@@ -316,8 +316,6 @@ bool AmoiniaMonitoringWifi::triggerAnEvent(String value1, String value2, String 
     client.println("Host: " + String(HOSTIFTTT));
     client.println("Connection: close");
     client.println();
-    // Serial.println(value2);
-    // Serial.println("Data Upload");
     return true;
 }
 
